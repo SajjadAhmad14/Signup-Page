@@ -1,0 +1,24 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+@font-face {
+    font-family: AvenirNext;
+    src: url(./fonts/avenirnext/AvenirNextLTPro-Regular.otf)
+    font-family: Avenir;
+    src: url(./fonts/avenir/AvenirLTStd-Book.otf)
+    font-family: HelveticaNue;
+    src: url(./fonts/HelveticaNue/HelveticaNeue-UltLt.otf)
+    font-family: Helvetica
+    src: url(./fonts/Helvetica/Helvetica.ttf)
+}
+
+body {
+    background-color: #ECEEF1;
+    font-family: "AvenirNext",
+    Avenir,
+    HelveticaNue,
+    Helvetica, 
+    Arial, 
+    sans-serif;
+}
