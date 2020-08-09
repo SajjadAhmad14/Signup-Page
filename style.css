@@ -22,3 +22,19 @@ body {
     Arial, 
     sans-serif;
 }
+
+header {
+    float: right;
+    margin: 20px 70px 0 0;
+    font-size: 12px;
+}
+
+header input {
+    position: absolute;
+    right: 10px;
+    top: 25px;
+    font-size: 16px;
+    background-color: #0077c5;
+    color: #fff;
+    border-radius: 3px;
+}
