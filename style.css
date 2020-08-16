@@ -25,16 +25,25 @@ body {
 
 header {
     float: right;
-    margin: 20px 70px 0 0;
+    margin: 20px 80px 0 0;
     font-size: 12px;
+}
+
+header a {
+    color: #0077c5;
+    text-decoration: none;
 }
 
 header input {
     position: absolute;
     right: 10px;
-    top: 25px;
+    top: 15px;
     font-size: 16px;
     background-color: #0077c5;
     color: #fff;
     border-radius: 3px;
+    cursor: pointer;
+    border: none;
+    padding: 5px
+
 }
