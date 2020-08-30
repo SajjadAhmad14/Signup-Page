@@ -52,8 +52,7 @@ header input {
     display: flex;
     justify-content: center;
     align-items: flex-start;
-    border: 2px solid red;
-    height: 100vh;
+    height: 85vh;
     width: 100vw;
 }
 
@@ -61,6 +60,7 @@ form {
     background-color: #fff;
     padding: 20px 40px;
     border: 1px solid #4c4c4c;
+    border-radius: 5px;
 }
 
 .form-head {
@@ -111,6 +111,10 @@ input:nth-child(8) {
 p a {
     text-decoration: none;
     color: #0077c5;
+}
+
+footer p {
+    text-align: center;
 }
 
 
