@@ -4,13 +4,13 @@
 }
 @font-face {
     font-family: AvenirNext;
-    src: url(./fonts/avenirnext/AvenirNextLTPro-Regular.otf)
+    src: url(./fonts/avenirnext/AvenirNextLTPro-Regular.otf);
     font-family: Avenir;
-    src: url(./fonts/avenir/AvenirLTStd-Book.otf)
+    src: url(./fonts/avenir/AvenirLTStd-Book.otf);
     font-family: HelveticaNue;
-    src: url(./fonts/HelveticaNue/HelveticaNeue-UltLt.otf)
-    font-family: Helvetica
-    src: url(./fonts/Helvetica/Helvetica.ttf)
+    src: url(./fonts/HelveticaNue/HelveticaNeue-UltLt.otf);
+    font-family: Helvetica;
+    src: url(./fonts/Helvetica/Helvetica.ttf);
 }
 
 body {
