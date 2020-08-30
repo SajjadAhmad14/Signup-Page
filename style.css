@@ -47,3 +47,40 @@ header input {
     padding: 5px
 
 }
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    border: 2px solid red;
+    height: 100vh;
+    width: 100vw;
+}
+
+form {
+    background-color: #fff;
+    padding: 20px 40px;
+    border: 1px solid #4c4c4c;
+}
+
+.form-head {
+    color: #4c4c4c;
+}
+
+.form-head p {
+    font-size: 25px;
+
+}
+
+p:nth-child(2) {
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+.form-head a {
+    display: block;
+    width: 100%;
+    text-align: center;
+    text-decoration: none;
+    color: #0077c5;
+}
