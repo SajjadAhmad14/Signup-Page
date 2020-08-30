@@ -65,6 +65,7 @@ form {
 
 .form-head {
     color: #4c4c4c;
+    margin-bottom: 20px;
 }
 
 .form-head p {
@@ -83,4 +84,22 @@ p:nth-child(2) {
     text-align: center;
     text-decoration: none;
     color: #0077c5;
+}
+
+form input {
+    width: 100%;
+    padding: 8px 5px;
+    margin-bottom: 20px;
+    margin-top: 5px;
+}
+
+input:nth-child(8) {
+    background-color: #0077c5;
+    color: #fff;
+    border: none;
+    padding: 15px;
+    margin-left: 5px;
+    border-radius: 5px;
+    font-size: 20px;
+    cursor: pointer;
 }
