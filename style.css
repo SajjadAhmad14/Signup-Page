@@ -103,3 +103,14 @@ input:nth-child(8) {
     font-size: 20px;
     cursor: pointer;
 }
+
+.center {
+    text-align: center
+}
+
+p a {
+    text-decoration: none;
+    color: #0077c5;
+}
+
+
